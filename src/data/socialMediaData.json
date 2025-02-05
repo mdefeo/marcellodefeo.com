@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Bluesky",
+    "href": "https://bsky.app/profile/flyers.bsky.social",
+    "icon": "FaBluesky"
+  },
+  {
+    "name": "LinkedIn",
+    "href": "https://www.linkedin.com/in/marcellodefeo",
+    "icon": "FaLinkedin"
+  },
+  {
+    "name": "Bandcamp",
+    "href": "https://slot-car-racers.bandcamp.com/",
+    "icon": "FaBandcamp"
+  },
+  {
+    "name": "GitHub",
+    "href": "https://github.com/mdefeo",
+    "icon": "FaGithub"
+  },
+  {
+    "name": "Spotify",
+    "href": "https://open.spotify.com/user/marcellod",
+    "icon": "FaSpotify"
+  }
+]

@@ -1,0 +1,183 @@
+/* Default styles for the site */
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+}
+
+/* Accessible mode styles */
+.accessible-mode {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px; /* Increase font size */
+  line-height: 1.75; /* Increase line height for readability */
+}
+
+/* Increase contrast for text */
+.accessible-mode body {
+  color: #000; /* Dark text on light background */
+  background-color: #fff; /* Light background */
+}
+
+/* Ensure focus visibility on all elements */
+.accessible-mode :focus {
+  outline: 3px solid #ffbf47; /* High contrast outline on focusable elements */
+  outline-offset: 2px;
+}
+
+/* Improve readability with larger clickable elements */
+.accessible-mode button,
+.accessible-mode a,
+.accessible-mode input,
+.accessible-mode select,
+.accessible-mode textarea {
+  font-size: 18px; /* Larger font size for buttons, links, inputs */
+  padding: 0.75rem 1rem; /* Increase padding for easier interaction */
+  line-height: 1.5;
+  border-radius: 4px; /* Rounded corners for accessibility */
+}
+
+/* Add increased spacing between paragraphs and sections */
+.accessible-mode p {
+  margin-bottom: 1.5rem; /* Increase space between paragraphs */
+}
+
+/* Add custom styles for form elements */
+.accessible-mode input,
+.accessible-mode select,
+.accessible-mode textarea {
+  background-color: #f7f7f7; /* Light background for inputs */
+  border: 2px solid #ccc; /* Border for clarity */
+  padding: 0.75rem;
+}
+
+.accessible-mode input:focus,
+.accessible-mode select:focus,
+.accessible-mode textarea:focus {
+  border-color: #ffbf47; /* Highlight borders on focus */
+}
+
+/* Accessible text for headings */
+.accessible-mode h1,
+.accessible-mode h2,
+.accessible-mode h3,
+.accessible-mode h4,
+.accessible-mode h5,
+.accessible-mode h6 {
+  font-size: 2rem; /* Increase size of headings */
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+/* Accessible contrast for links */
+.accessible-mode a {
+  color: #0070f3;
+  text-decoration: underline;
+}
+
+.accessible-mode a:focus {
+  outline: 2px solid #ffbf47; /* Focused links should be easily visible */
+}
+
+.accessible-mode a:hover {
+  color: #ffbf47;
+}
+
+/* Accessible button hover effect */
+.accessible-mode button:hover,
+.accessible-mode button:focus {
+  background-color: #ffbf47;
+  color: #fff;
+}
+
+/* Accessible mode specific to images */
+.accessible-mode img {
+  border-radius: 4px; /* Rounded corners on images */
+  max-width: 100%;
+  height: auto;
+}
+
+/* Form elements to be more accessible */
+.accessible-mode label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+}
+
+.accessible-mode input[type='checkbox'],
+.accessible-mode input[type='radio'] {
+  margin-right: 0.5rem;
+}
+
+/* Improve contrast for interactive elements */
+.accessible-mode button,
+.accessible-mode input[type='button'],
+.accessible-mode input[type='submit'],
+.accessible-mode a {
+  background-color: #0070f3; /* High contrast background for buttons and links */
+  color: #fff;
+  border: none;
+  text-align: center;
+}
+
+.accessible-mode button:hover,
+.accessible-mode a:hover {
+  background-color: #0056b3;
+}
+
+/* Headings and major section titles */
+.accessible-mode h1,
+.accessible-mode h2,
+.accessible-mode h3 {
+  font-size: 1.75rem;
+  font-weight: bold;
+}
+
+/* Adjust tab navigation for accessibility */
+.accessible-mode [tabindex]:focus {
+  outline: 3px solid #ffbf47;
+}
+
+/* Add spacing and make sure content is not cramped */
+.accessible-mode main {
+  padding: 2rem;
+}
+
+/* Ensure icons or buttons used for navigation or interactivity are large enough */
+.accessible-mode svg {
+  width: 24px;
+  height: 24px;
+}
+
+.accessible-mode .icon {
+  width: 30px;
+  height: 30px;
+  transition: all 0.3s ease-in-out;
+}
+
+.accessible-mode .icon:hover {
+  transform: scale(1.2); /* Enlarge on hover for better visibility */
+}
+
+/* Accessible scrollbar styling */
+.accessible-mode ::-webkit-scrollbar {
+  width: 12px;
+}
+
+.accessible-mode ::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.accessible-mode ::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.accessible-mode ::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Adjust focus ring styles for interactive elements */
+.accessible-mode button:focus-visible,
+.accessible-mode a:focus-visible,
+.accessible-mode input:focus-visible,
+.accessible-mode select:focus-visible {
+  outline: 4px solid #ffbf47;
+}

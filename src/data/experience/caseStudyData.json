@@ -1,0 +1,126 @@
+[
+  {
+    "name": "IKEA",
+    "title": "Seasonal Launch Vehicle",
+    "href": "/portfolio#ikea",
+    "image": "ikea.jpg",
+    "url": "https://web.archive.org/web/20130116234349/http://info.ikea-usa.com/celebrate/",
+    "description": "Interactive digital catalog for IKEA.",
+    "challenges": [
+      "Manage a team of developers and freelancers.",
+      "Collaborate directly with the client to understand their requirements and implement them.",
+      "Develop a cutting-edge application with microinteractions, full-screen animations, responsive design with fallbacks, and CSS3 and HTML5 at a time when these technologies were still emerging."
+    ],
+    "outcomes": [
+      "Successfully architected the first-ever interactive digital catalog of its kind.",
+      "Featured in renowned publications such as <span class=\"italic\">The New York Times</span>, <span class=\"italic\">Fast Company</span>, and <span class=\"italic\">Philadelphia Magazine</span>.",
+      "Webby Award Honoree, and winner of Addy's Gold Award for Consumer Websites.",
+      "Achieved over 500,000 monthly visitors"
+    ],
+    "skills": [
+      { "name": "csharp", "icon": "csharp", "alt": "C#, .NET, Razor" },
+      { "name": "aws", "icon": "aws", "alt": "AWS" },
+      { "name": "css3", "icon": "css3", "alt": "CSS3" },
+      { "name": "html5", "icon": "html5", "alt": "HTML5" },
+      { "name": "javascript", "icon": "javascript", "alt": "JavaScript" },
+      {
+        "name": "googleanalytics",
+        "icon": "googleanalytics",
+        "alt": "Google Analytics"
+      },
+      { "name": "gtm", "icon": "gtm", "alt": "Google Tag Manager" },
+      { "name": "adobe", "icon": "adobe", "alt": "Adobe Creative Cloud" },
+      { "name": "git", "icon": "git", "alt": "Git" }
+    ],
+    "clientLogo": "ikea.svg",
+    "role": "Lead Developer",
+    "team": [
+      "3 Developers",
+      "5 Designers",
+      "2 Project Managers",
+      "2 Copywriters"
+    ],
+    "duration": "3 months"
+  },
+  {
+    "name": "Toll Brothers",
+    "title": "Career Center",
+    "href": "/portfolio#toll-brothers",
+    "image": "tollbrothers.jpg",
+    "url": "https://www.tollcareercenter.com/",
+    "description": "Custom Toll Brothers job search application.",
+    "challenges": [
+      "Build high-priority real-time job search application with integration to HR and recruitment software.",
+      "Collaborate directly with the client to understand their requirements and implement them.",
+      "Develop a cutting-edge application with microinteractions, full-screen animations, responsive design with fallbacks, and CSS3 and HTML5 at a time when these technologies were still emerging."
+    ],
+    "outcomes": [
+      "Achieved an immediate 10% growth in quality applicants through improved user experience and streamlined application processes.",
+      "Enabled efficient tracking of applicants and applications via seamless integration with iCIMS HR/Applicant Tracking System, significantly improving hiring workflows.",
+      "Delivered a cutting-edge, fully responsive job search application with a clean interface and exceptional user experience, featuring real-time job listings via API integration with iCIMS."
+    ],
+    "skills": [
+      { "name": "php", "icon": "php", "alt": "PHP" },
+      { "name": "mysql", "icon": "mysql", "alt": "MySQL" },
+      { "name": "css3", "icon": "css3", "alt": "CSS3" },
+      { "name": "html5", "icon": "html5", "alt": "HTML5" },
+      { "name": "api", "icon": "api", "alt": "API" },
+      { "name": "gtm", "icon": "gtm", "alt": "Google Tag Manager" },
+      {
+        "name": "googleanalytics",
+        "icon": "googleanalytics",
+        "alt": "Google Analytics"
+      },
+      { "name": "adobe", "icon": "adobe", "alt": "Adobe Creative Cloud" },
+      { "name": "git", "icon": "git", "alt": "Git" }
+    ],
+    "clientLogo": "tollbrothers.svg",
+    "role": "Lead Developer",
+    "team": ["1 Developer", "2 Designers", "1 Project Manager"],
+    "duration": "2 months"
+  },
+  {
+    "name": "Tris",
+    "title": "Copay Card & Patient Assistance Program",
+    "href": "/portfolio#tris",
+    "image": "tris.jpg",
+    "url": "https://www.tollcareercenter.com/",
+    "description": "Medication assistance program with real-time tracking and compliance.",
+    "challenges": [
+      "Create API to generate dynamic copay cards and PAP with dynamic PDF generation on the fly.",
+      "Ensure SOC 2 and HIPAA compliance and integration with Change Healthcare to retrieve redemptions.",
+      "Develop custom dashboard to allow sales and marketing teams to data in real time."
+    ],
+    "outcomes": [
+      "Program expanded to support five drugs and was designed to easily scale, ensuring the API and application could handle future growth with minimal effort.",
+      "Handled thousands of redemptions monthly, enabling real-time tracking of redemption data. This empowered the sales and marketing teams with actionable insights, improving workflow efficiency and decision-making.",
+      "Effectively obfuscated sensitive data to maintain HIPAA and SOC 2 compliance, while still providing the sales and marketing teams with the necessary information to assess and track the program's success."
+    ],
+    "skills": [
+      { "name": "node", "icon": "node", "alt": "Node.js" },
+      { "name": "express", "icon": "express", "alt": "Express" },
+      { "name": "azure", "icon": "azure", "alt": "Azure" },
+      { "name": "azureSql", "icon": "azureSql", "alt": "Azure SQL" },
+      { "name": "api", "icon": "api", "alt": "API Development" },
+      { "name": "php", "icon": "php", "alt": "PHP" },
+      { "name": "css3", "icon": "css3", "alt": "CSS3" },
+      { "name": "html5", "icon": "html5", "alt": "HTML5" },
+      { "name": "javascript", "icon": "javascript", "alt": "JavaScript" },
+      { "name": "typescript", "icon": "typescript", "alt": "TypeScript" },
+      { "name": "nagios", "icon": "nagios", "alt": "Nagios" },
+      { "name": "hipaa", "icon": "hipaa", "alt": "HIPAA" },
+      { "name": "soc2", "icon": "soc2", "alt": "SOC 2" },
+      { "name": "gtm", "icon": "gtm", "alt": "Google Tag Manager" },
+      {
+        "name": "googleanalytics",
+        "icon": "googleanalytics",
+        "alt": "Google Analytics"
+      },
+      { "name": "adobe", "icon": "adobe", "alt": "Adobe Creative Cloud" }
+    ],
+    "clientLogo": "Tris_Pharma.png",
+    "role": "Lead Developer",
+    "team": ["1 Developer", "1 Designer"],
+    "duration": "2 months"
+  }
+]

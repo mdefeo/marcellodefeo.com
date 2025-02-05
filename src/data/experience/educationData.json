@@ -1,0 +1,20 @@
+[
+  {
+    "logoSrc": "/images/schools/Boston_University_seal.svg",
+    "altText": "Boston University Seal",
+    "institutionName": "Boston University, Questrom",
+    "duration": "2024 - Current",
+    "degree": "MBA Candidate",
+    "location": "Boston, MA",
+    "description": "Pursuing a Master of Business Administration with a focus on management and leadership in business environments."
+  },
+  {
+    "logoSrc": "/images/schools/Saint_Josephs_University_seal.svg",
+    "altText": "Saint Joseph's University Seal",
+    "institutionName": "Saint Joseph's University",
+    "duration": "1996 - 2001",
+    "degree": "Dual B.A. in English and Fine Arts",
+    "location": "Philadelphia, PA",
+    "description": "Dual Bachelor's degree focusing on English literature and Fine Arts, with a specific emphasis on Digital Design."
+  }
+]

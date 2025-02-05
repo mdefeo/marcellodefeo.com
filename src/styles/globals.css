@@ -1,0 +1,165 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+/* Tailwind Directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply m-0 min-h-screen scroll-smooth p-0 leading-5 text-primary-content text-lg;
+  background: #1F2133;
+  background: radial-gradient(at center, #1F2133, #010101);
+  font-family: 'Raleway', sans-serif;
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  @apply text-accent-content underline hover:text-accent-content;
+}
+
+/* Layout Styles */
+main {
+  @apply z-10 m-0 mx-auto grid h-auto w-screen grid-cols-1 gap-4 p-0 align-middle md:fixed md:h-screen md:gap-8 md:overflow-x-hidden;
+}
+
+section {
+  @apply mx-auto flex min-h-screen items-center justify-center p-0 py-1 md:max-w-4xl lg:max-w-5xl xl:max-w-7xl; 
+}
+
+header {
+  @apply relative m-0 h-auto w-full p-0;
+}
+
+/* Image Hover Effects */
+img {
+  @apply transition-all duration-500 ease-in-out hover:shadow-2xl;
+}
+
+/* Navigation */
+.social-media-nav {
+  @apply my-3 flex justify-center p-0;
+}
+
+.social-media-icon {
+  @apply mx-3 transition-all ease-in-out hover:opacity-75 hover:shadow-2xl;
+}
+
+/* Apply the font to heading tags */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-bold text-base-100;
+  font-family: Raleway, sans-serif;
+}
+
+h1 {
+  @apply mb-4 text-5xl md:text-5xl lg:text-6xl;
+}
+
+h2 {
+  @apply mb-3 text-4xl;
+}
+
+h3 {
+  @apply text-2xl;
+}
+
+h4 {
+  @apply text-xl;
+}
+ 
+ul {
+  @apply list-disc pl-3;
+}
+
+ul li {
+  @apply leading-6;
+}
+
+div[class^='border-'] {
+  @apply fixed z-40 hidden h-2 w-2 bg-neutral opacity-0 md:block;
+}
+
+.border-top {
+  @apply left-0 top-0;
+}
+
+.border-right {
+  @apply right-0 top-0;
+}
+
+.border-bottom {
+  @apply bottom-0 right-0;
+}
+
+.border-left {
+  @apply bottom-0 left-0;
+}
+
+.h-border {
+  @apply h-2 w-[10vw] sm:w-[5vw] md:w-[10vw] lg:w-[15vw];
+}
+
+.v-border {
+  @apply h-[10vh] w-2 sm:h-[5vh] md:h-[10vh] lg:h-[15vh];
+}
+
+.end-border {
+  @apply transition-all duration-300 ease-in;
+}
+
+.end-border.h-border {
+  @apply h-3;
+}
+
+.end-border.v-border {
+  @apply w-3;
+}
+
+.signature-set-height {
+  @apply h-16 block;
+}
+
+.signature-wrapper {
+  @apply z-30 w-full opacity-0 block my-5;
+}
+
+.summary-grid {
+  @apply grid grid-cols-1 sm:grid-cols-4 gap-20 items-center justify-center w-full;
+}
+
+
+.profile-image-container {
+  @apply relative block h-auto w-full duration-300 ease-in;
+}
+
+.profile-image {
+  @apply bg-profile-gradient aspect-square rounded-full shadow-sm;
+}
+
+.background-container {
+  @apply relative block w-full h-full;
+  z-index: 1;
+}
+
+.summary-header {
+  @apply font-normal mb-5;
+}
+
+.summary-left-col {
+  @apply sm:col-span-3 order-2 sm:order-1 h-auto text-center mx-auto md:text-left;
+}
+
+.summary-right-col {
+  @apply sm:col-span-1 order-1 sm:order-2 flex flex-col h-full;  
+}
