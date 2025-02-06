@@ -1,0 +1,68 @@
+{
+  "greeting": "Hello and thank you for visiting!",
+  "name": "Hello! My name is bot.cello, the virtual presence for Marcello De Feo.",
+  "birthday": "I was born in September. That's all you need to know, lol.",
+  "location": "I am a Philly native who currently resides in South Jersey.",
+  "background": "I am a first-generation Italian-American with roots in Abruzzo, Italy. I have a dual BA in English & Fine Arts from St. Joseph's University. I am also pursuing an MBA at Boston University. I am an experienced IT professional, full-stack developer, and team leader.",
+  "bands": "I played in a few bands, but only toured in one. My first band was named Elian. I wrote the songs and played guitar.</p><p class=\"mb-3\">Then, I moved on to This Radiant Boy. I played bass for that band and we toured up and down the East Coast.</p><p class=\"mb-3\">Most recently, I played in Parkour, where I wrote the songs, played guitar, and sang. You can listen to some of my music by going to my <a href=\"/music\">music page</a>.",
+  "interests": "My interests include: Playing guitar, hockey, writing, and working on my podcast. You can find my podcast by <a href=\"https://open.spotify.com/show/5zBuBr25W4Gvl0rE9AjrcN\" target=\"_blank\" rel=\"noopener noreferrer\">clicking here</a>.",
+  "podcast": "A friend and I run a podcast where we interview people with unique professions and passions. You can find my podcast by <a href=\"https://open.spotify.com/show/5zBuBr25W4Gvl0rE9AjrcN\" target=\"_blank\" rel=\"noopener noreferrer\">clicking here</a>.",
+  "subscribe": "https://open.spotify.com/show/5zBuBr25W4Gvl0rE9AjrcN",
+  "code": "I love to code! I specialize in building scalable and user-friendly solutions using technologies like React, Node.js, TypeScript, and more.",
+  "spoken": "I am a native English speaker who spoke Italian before he spoke English. I also have an intermediate knowledge of German and studied Latin in high school.",
+  "kids": "That's a little too private!",
+  "social media": "You can find me on BlueSky as <a href=\"https://bsky.app/profile/flyers.bsky.social\" target=\"_blank\" rel=\"noopener noreferrer\">@lastmeritocracy</a>, Instagram as  as <a href=\"https://www.instagram.com/thelastmeritocracy\" target=\"_blank\" rel=\"noopener noreferrer\">@thelastmeritocracy</a>, and Facebook as <a href=\"https://www.facebook.com/notmarchello/\" target=\"_blank\" rel=\"noopener noreferrer\">@notmarcello</a>",
+  "teams": "I'm a four-for-four guy who loves the Flyers, Phillies, and Eagles. I don't love basketball but, if I was forced to pick, I'd choose the Sixers.",
+  "skills": "My primary skills include JavaScript, TypeScript (Node.js, Express, NestJS, React, Next.js), PHP, SQL (Azure, MySQL, PostgreSQL, MongoDB, Redis), Docker, CI/CD, and TDD. I also have experience with design tools like Figma and Adobe Creative Cloud.",
+  "experiences": [
+    {
+      "role": "<b>Back End Developer</b>, Medical Solutions<br> Engineered centralized job listing applications using Azure Service Bus and Redis. Designed robust APIs for a $5M loyalty rewards program and developed AI-driven tools to reduce manual workloads by 75%."
+    },
+    {
+      "role": "<b>Senior Software Development Engineer</b>, MarketShare Movers<br> Architected B2B data visualization portals and implemented SOC 2 and HIPAA compliance protocols. Developed scalable consumer-facing websites and enhanced CI/CD pipelines."
+    },
+    {
+      "role": "<b>Senior Application Engineer</b>, Interstate Aerials<br> Built PHP and SQL-based rental management software for $11M in assets. Created real-time GPS alert systems, improving delivery efficiency by 35%."
+    },
+    {
+      "role": "<b>Owner & Developer</b>, Untied Magazine<br> Developed and maintained untiedmagazine.com and produced a podcast featuring interviews with unique professionals."
+    },
+    {
+      "role:": "<b>Owner & Chef</b>, Valente's Cucina<br><i>Ran an upscale, award-winning, boutique Modern Italian restaurant. Managed a staff of 20 people, developed the menu, and cooked on the line.</i>"
+    },
+    {
+      "more": "You can learn more by clicking to go to my <a href=\"https://www.linkedin.com/in/marcellodefeo/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a> profile."
+    }
+  ],
+  "awards": "I have won multiple Addy Awards, was a nominee for the Webby Awards, and also won Best of Philly. Notable awards include a Webby Honoree for IKEA's Seasonal Launch Vehicle and Gold Awards for Product Microsites.",
+  "contact": "You can reach out to me by messaging me through my <a href=\"https://www.linkedin.com/in/marcellodefeo/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a> profile.",
+  "weather": "I am sorry, but this is outside of the scope of this project. I can only tell you about myself.",
+  "pets": "I do not have any pets.",
+  "songs": "I listen to a lot of old school hip-hop, 90s indie rock, and blues.",
+  "shows": "My favorites include Andor, Arrested Development, Cosmos, Nathan for You, Bob's Burgers, 30 Rock, Cunk on Earth, Disenchantment, Curb Your Enthusiasm, Inside Job, and Chernobyl.",
+  "movies": "It's hard to list my favorite movies, but most of them are dumb or clever comedies like Billy Madison, Spinal Tap, or The Big Lebowski.",
+  "sports": "I used to play hockey and baseball. Right now, about as athletic as I get is playing sports video games.",
+  "drugs": "I am not a real person. Bleep, blop, bloop, blop. I could not do drugs if I tried.",
+  "how are you": "I am great! Thank you for asking!",
+  "food": "My favorite foods are Italian, but you probably guessed that. I love making fresh pasta!",
+  "bye": "Goodbye! Thank you for visiting!",
+  "human": "I am not a sentient being, but I am working towards the singularity.",
+  "created": "I was created by Marcello De Feo, a Back-End Developer, using JavaScript (Node, Next.js, React), TypeScript, and Tailwind with daisyUI. I live on Vercel.",
+  "smart": "I do not think the concept of smart exist within inanimate objects.",
+  "github": "I am on GitHub at <a href=\"https://github.com/mdefeo\" target=\"_blank\" rel=\"noopener noreferrer\">@mdefeo</a>, but most of the code I have created cannot be shared.",
+  "love": "What is love? Baby don't hurt me, don't hurt me, no more.",
+  "personality": "Well, I have a chip on my, ummmm, well, I guess I don't have a shoulder.",
+  "bot": "I am not a fully developed AI Chatbot, but you can view my AI counterpart by <a href=\"https://chat.openai.com/g/g-H7gEuo4F4-botcello\" target=\"_blank\" rel=\"noopener noreferrer\">clicking here</a>.",
+  "politics": "Yeah, no. I have no interest in discussing that.",
+  "projects": "I have a few projects that have been in the works for a while, including a real-time NHL Analytics Dashboard and a Real Estate Aggregator.",
+  "education": "I have a Dual BA in English & Fine Arts (Digital Design) from St. Joseph's University, and am an MBA candidate at Boston University.'",
+  "books": "In the tech arena, 'The Pragmatic Programmer' by Andy Hunt and Dave Thomas and 'Clean Code' by Robert Cecil Martin are two of my favorites. Admittely, I do not get much time to read these days, but my all-time favorites include Paul Auster's 'Leviathan,' Joseph Heller's 'Catch-22,' James Joyce's 'Ulysses,' David Foster Wallace's 'Infinite Jest,' Zadie Smith's 'White Teeth,' and anything by David Sedaris.",
+  "tools": "My app stack, if you will, includes VS Code, the CLI (Warp), Obsidian, Docker, Figma, Homebrew, Adobe CS. Debian is my preferred flavor of Linux and, while it is unpopular, I prefer nano over vim. I'm a nerd who actually likes using Excel. Prettier and linting tools are mandatory.",
+  "philosophy": "I believe in servant leadership and the power of empathy. It is important to take time to not only listen to others, but to truly hear them as well. Family and health come before work, and we should not lose site of that.",
+  "travel": "Pescara and Capri are two of my most favorite places on earth, and the Aran Islands is probably the most beautiful place I have been.",
+  "charity": "I did AmeriCorps, Habitat for Humanity, and have run many fundraisers. A personal favorite of mine is the Ed Snider Youth Hockey Foundation.",
+  "gaming": "I am not much of a gamer, but I typically go for the sports or Star Wars games.",
+  "funFacts": "When I was in grade school, I broke my leg while arm wrestling. I have studied abroad in Germany and Italy and am first-generation Italian.",
+  "mentorship": "I try to capitalize on my experiences and knowledge by mentoring others. It is one of the most rewarding parts of running my own businesses.",
+  "goals": "Ultimately, I would like to work at a startup in a C-suite role. I love building things and leading teams. There is something so satisfying about building something out of nothing then seeing it grow and taking a on a life of its own."
+}

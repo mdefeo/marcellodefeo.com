@@ -1,0 +1,43 @@
+[
+  {
+    "logoSrc": "/images/businesses/Allora_Hospitality.svg",
+    "altText": "Allora Hospitality Logo",
+    "institutionName": "Allora Hospitality",
+    "duration": "2016 - 2022",
+    "title": "Owner / Operator",
+    "location": "Haddonfield, NJ",
+    "description": [
+      "Scaled three successful, award-winning ventures with a focus on customer engagement and operational efficiency.",
+      "Grew business through innovative marketing strategies, achieving a three-month reservation waitlist.",
+      "Fostered community impact by mentoring employees, hiring individuals with employment barriers, sourcing goods globally from small businesses, and by creating the resource-sharing Haddonfield Food & Beverage Collective."
+    ]
+  },
+  {
+    "logoSrc": "/images/businesses/Gearadelphia.png",
+    "altText": "Gearadelphia Logo",
+    "institutionName": "Gearadelphia",
+    "duration": "2013 - 2018",
+    "title": "Owner / Operator",
+    "location": "Philadelphia, PA",
+    "description": [
+      "Founded and operated an e-commerce business specializing in high-quality gear and apparel for outdoor, travel, and sports activities.",
+      "Managed online presence through WooCommerce, Etsy, and social media, driving brand visibility and customer engagement.",
+      "Handled product sourcing and supplier relations, ensuring top-tier products and efficient inventory management.",
+      "Led marketing and customer service, increasing sales, customer satisfaction, and loyalty through targeted campaigns and exceptional support."
+    ]
+  },
+  {
+    "logoSrc": "/images/businesses/Flyers_Faithful.png",
+    "altText": "Flyers Faithful Logo",
+    "institutionName": "Flyers Faithful",
+    "duration": "2008 - 2014",
+    "title": "Owner / Operator",
+    "location": "Philadelphia, PA",
+    "description": [
+      "Founded and operated a leading sports media outlet focused on Philadelphia Flyers, with a staff of 30+ people.",
+      "Credentialed as journalists and photographers for major Philadelphia sports teams, covering live events and producing exclusive content.",
+      "Grew audience engagement to 10,000+ social media followers and 30,000 unique visitors per month, prior to selling to a sports radio station.",
+      "Led Fundraisers featuring TV stars, athletes, and celebrities, raising significant funds and boosting brand visibility."
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "institutionName": "Medical Solutions",
+    "title": "Back End Developer",
+    "institutionNameShortName": "Medical Solutions",
+    "tilteShortName": "Back End Developer",
+    "location": "Omaha, NE",
+    "duration": "2023 - Present",
+    "altText": "Medical Solutions",
+    "description": [
+      "Engineered centralized job listing application using Azure Service Bus and Redis, streamlining asynchronous data processing.",
+      "Provided technical mentorship and onboarded new developers, promoting collaboration and adherence to best practices.",
+      "Designed robust APIs for a $5M loyalty rewards program, enhancing system scalability and third-party integrations.",
+      "Collaborated with cross-functional teams to seamlessly translate Figma designs into React-based frontend systems, enhancing user experience and streamlining workflows.",
+      "Optimized backend performance by implementing comprehensive testing frameworks, reducing system bugs by 30%.",
+      "Developed AI-driven tools to automate job listing content generation, reducing manual workload by 75%."
+    ],
+    "logoSrc": "/images/businesses/Medical_Solutions.svg",
+    "technologies": [
+      { "name": "Node.js", "icon": "node" },
+      { "name": "Azure", "icon": "azure" },
+      { "name": "Azure SQL", "icon": "azureSql" },
+      { "name": "Redis", "icon": "redis" },
+      { "name": "React", "icon": "react" },
+      { "name": "Figma", "icon": "figma" },
+      { "name": "API Development", "icon": "api" },
+      { "name": "Express.js", "icon": "express" },
+      { "name": "Jest", "icon": "jest" },
+      { "name": "Docker", "icon": "docker" },
+      { "name": "Playwright", "icon": "playwright" },
+      { "name": "NestJS", "icon": "nest" },
+      { "name": "Git", "icon": "git" },
+      { "name": "Agile", "icon": "agile" },
+      { "name": "JavaScript", "icon": "javascript" },
+      { "name": "Typescript", "icon": "typescript" },
+      { "name": "Agile", "icon": "agile" }
+    ],
+    "skills": ["Node.js", "Azure", "API Development", "Agile", "Docker"]
+  },
+  {
+    "id": 2,
+    "institutionName": "Marketshare Movers (United BioSource)",
+    "title": "Senior Software Development Engineer",
+    "institutionNameShortName": "Marketshare Movers",
+    "tilteShortName": "Senior Engineer",
+    "location": "Furlong, PA",
+    "duration": "2017 - 2023",
+    "altText": "United BioSource",
+    "description": [
+      "Architected PHP-based B2B data visualization portals, increasing customer retention by 10%.",
+      "Implemented SOC 2 and HIPAA compliance protocols to ensure data security and meet regulatory standards.",
+      "Built scalable communication systems using Twilio SMS and SendGrid API, enhancing customer engagement.",
+      "Improved CI/CD pipelines to streamline development workflows, reducing deployment times by 20%.",
+      "Developed and launched consumer-facing websites for copay card and patient assistance programs, enabling access to new drugs for patients in need.",
+      "Collaborated with design and development teams to create intuitive front-end experiences that facilitated patient affordability and program enrollment."
+    ],
+    "logoSrc": "/images/businesses/United_BioSource.svg",
+    "technologies": [
+      { "name": "PHP", "icon": "php" },
+      { "name": "Azure", "icon": "azure" },
+      { "name": "Twilio", "icon": "twilio" },
+      { "name": "SendGrid", "icon": "sendgrid" },
+      { "name": "Azure SQL", "icon": "azureSql" },
+      { "name": "CSS3", "icon": "css3" },
+      { "name": "HTML5", "icon": "html5" },
+      { "name": "JavaScript", "icon": "javascript" },
+      { "name": "Adobe Creative Cloud", "icon": "adobe" },
+      { "name": "Node.js", "icon": "node" },
+      { "name": "Express.js", "icon": "express" },
+      { "name": "API Development", "icon": "api" },
+      { "name": "SQL Server", "icon": "sqlServer" },
+      { "name": "PostgreSQL", "icon": "postgresql" },
+      { "name": "Redis", "icon": "redis" },
+      { "name": "CI/CD", "icon": "sync" },
+      { "name": "HIPAA", "icon": "hipaa" },
+      { "name": "SOC 2", "icon": "soc2" },
+      { "name": "Git", "icon": "git" },
+      { "name": "Agile", "icon": "agile" },
+      { "name": "jQuery", "icon": "jQuery" }
+    ],
+    "skills": ["PHP", "CI/CD", "API Development", "HIPAA", "SOC 2"]
+  },
+  {
+    "id": 3,
+    "institutionName": "Interstate Aerials (Sunbelt)",
+    "title": "Senior Application Engineer",
+    "institutionNameShortName": "Interstate Aerials",
+    "tilteShortName": "Senior Engineer",
+    "location": "Paulsboro, NJ",
+    "duration": "2015 - 2017",
+    "altText": "Sunbelt",
+    "description": [
+      "Architected PHP and SQL-based Rental Management Software, enabling efficient tracking of $11M in equipment assets.",
+      "Developed real-time GPS alert systems, improving delivery efficiency by 35% and eliminating theft incidents.",
+      "Integrated accounting workflows using Sage 300 and SAP Crystal Reports."
+    ],
+    "logoSrc": "/images/businesses/Sunbelt_Rentals.svg",
+    "technologies": [
+      { "name": "PHP", "icon": "php" },
+      { "name": "MySQL", "icon": "mysql" },
+      { "name": "JavaScript", "icon": "javascript" },
+      { "name": "GPS", "icon": "gps" },
+      { "name": "Sage", "icon": "sage" },
+      { "name": "SAP", "icon": "sap" },
+      { "name": "CSS3", "icon": "css3" },
+      { "name": "HTML5", "icon": "html5" },
+      { "name": "SQL Server", "icon": "sqlServer" },
+      { "name": "jQuery", "icon": "jQuery" }
+    ],
+    "skills": ["PHP", "SQL", "MySQL", "GPS", "Sage"]
+  },
+  {
+    "id": 4,
+    "institutionName": "Toll Brothers",
+    "title": "Web Developer",
+    "institutionNameShortName": "Toll Brothers",
+    "tilteShortName": "Web Developer",
+    "location": "Horsham, PA",
+    "duration": "2014 - 2015",
+    "altText": "Toll Brothers",
+    "description": [
+      "Developed high-visibility consumer-facing sites to market new developments, including luxury Park Avenue buildings with listings up to $35 million, as featured on Bravo’s Million Dollar Listing.",
+      "Spearheaded the development of Toll Career Center, with real-time job listings sourced from iCIMS and an internal API, leading to a 10% increase in job candidates.",
+      "Created internal framework for rapid deployment, project checklists, and management tools."
+    ],
+    "logoSrc": "/images/businesses/Toll_Brothers.svg",
+    "technologies": [
+      { "name": "PHP", "icon": "php" },
+      { "name": "MySQL", "icon": "mysql" },
+      { "name": "CSS3", "icon": "css3" },
+      { "name": "HTML5", "icon": "html5" },
+      { "name": "JavaScript", "icon": "javascript" },
+      { "name": "Adobe Creative Cloud", "icon": "adobe" },
+      { "name": "API Development", "icon": "api" },
+      { "name": "Git", "icon": "git" },
+      { "name": "jQuery", "icon": "jQuery" }
+    ],
+    "skills": ["PHP", "MySQL", "JavaScript", "API Development"]
+  },
+  {
+    "id": 5,
+    "institutionName": "Brownstein Group",
+    "title": "Senior Developer",
+    "institutionNameShortName": "Brownstein Group",
+    "tilteShortName": "Senior Developer",
+    "location": "Philadelphia, PA",
+    "duration": "2012 - 2014",
+    "altText": "Brownstein Group",
+    "description": [
+      "Managed a team of developers to deliver award-winning websites for Fortune 500 companies like IKEA.",
+      "Created IKEA’s Seasonal Launch Vehicle (SLV), an interactive digital catalog driving customer engagement with over 500,000 monthly users."
+    ],
+    "logoSrc": "/images/businesses/Brownstein_Group.svg",
+    "technologies": [
+      { "name": "PHP", "icon": "php" },
+      { "name": "C#", "icon": "csharp" },
+      { "name": "CSS3", "icon": "css3" },
+      { "name": "HTML5", "icon": "html5" },
+      { "name": "JavaScript", "icon": "javascript" },
+      { "name": "MySQL", "icon": "mysql" },
+      { "name": "Adobe Creative Cloud", "icon": "adobe" },
+      { "name": "API Development", "icon": "api" },
+      { "name": "AWS", "icon": "aws" },
+      { "name": "Git", "icon": "git" },
+      { "name": "Agile", "icon": "agile" },
+      { "name": "SQL Server", "icon": "sqlServer" },
+      { "name": "jQuery", "icon": "jQuery" }
+    ],
+    "skills": ["PHP", "C#", "JavaScript", "MySQL", "AWS"]
+  },
+  {
+    "id": 6,
+    "institutionName": "Saint Joseph's University",
+    "title": "Web Developer and Database Administrator",
+    "institutionNameShortName": "SJU",
+    "tilteShortName": "Web Developer",
+    "location": "Philadelphia, PA",
+    "duration": "2005 - 2012",
+    "altText": "Saint Joseph's University",
+    "description": [
+      "Built and maintained department-specific Learning Management Systems (LMS).",
+      "Developed APIs to interface with the University’s Blackboard LMS.",
+      "Developed and launched the initial courses for the University’s online learning programs, laying the foundation for its digital education initiatives."
+    ],
+    "logoSrc": "/images/businesses/Saint_Josephs_University.svg",
+    "technologies": [
+      { "name": "Java", "icon": "java" },
+      { "name": "PHP", "icon": "php" },
+      { "name": "Oracle", "icon": "oracle" },
+      { "name": "Blackboard", "icon": "blackboard" },
+      { "name": "CSS3", "icon": "css3" },
+      { "name": "HTML5", "icon": "html5" },
+      { "name": "MySQL", "icon": "mysql" },
+      { "name": "jQuery", "icon": "jQuery" },
+      { "name": "Adobe Creative Cloud", "icon": "adobe" }
+    ],
+    "skills": ["Java", "PHP", "Oracle", "MySQL"]
+  }
+]

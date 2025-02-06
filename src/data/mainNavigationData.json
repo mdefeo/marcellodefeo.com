@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Personal",
+    "href": "/",
+    "icon": "faGuitar",
+    "previewImage": "music.jpg",
+    "previewDescription": "I may work in dev, but grew up in kitchens.",
+    "subItems": [
+      { "name": "Summary", "href": "/#summary" },
+      { "name": "Education", "href": "/#education" },
+      { "name": "Skills", "href": "/#skills" },
+      { "name": "Music", "href": "/#music" },
+      { "name": "Food", "href": "/#food" }
+    ]
+  },
+  {
+    "name": "Professional",
+    "href": "/professional",
+    "icon": "faDisplay",
+    "previewImage": "cv.jpg",
+    "previewDescription": "Engineer by day, MBA student by night.",
+    "subItems": [
+      { "name": "Experience", "href": "/professional#experience" },
+      { "name": "Case Studies", "href": "/professional/#case-studies" },
+      { "name": "Entrepreneurship", "href": "/professional#entrepreneurship" },
+      { "name": "Projects", "href": "/professional#projects" },
+      { "name": "Recognition", "href": "/professional#recognition" }
+    ]
+  }
+]

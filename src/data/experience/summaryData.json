@@ -1,0 +1,29 @@
+[
+  {
+    "logoSrc": "/images/schools/Boston_University_seal.svg",
+    "altText": "Boston University Seal",
+    "institutionName": "Boston University, Questrom",
+    "duration": "2024 - Current",
+    "degree": "MBA Candidate",
+    "location": "Boston, MA",
+    "description": "Pursuing a Master of Business Administration with a focus on management and leadership in business environments."
+  },
+  {
+    "logoSrc": "/images/businesses/Medical_Solutions.svg",
+    "altText": "Medical Solutions",
+    "institutionName": "Medical Solutions",
+    "duration": "2023 - Present",
+    "location": "Omaha, NE",
+    "degree": "Back End Developer",
+    "description": "Developed a custom healthcare staffing platform for a $700 million client. Engineered a centralized AI-driven job listing application. Designed and implemented a $5 million loyalty rewards program to enhance customer engagement."
+  },
+  {
+    "logoSrc": "/images/businesses/Allora_Hospitality.svg",
+    "altText": "Allora Hospitality Logo",
+    "institutionName": "Allora Hospitality",
+    "duration": "2016 - 2022",
+    "degree": "Owner / Operator",
+    "location": "Haddonfield, NJ",
+    "description": "Scaled three successful, award-winning small ventures. Grew business through innovative marketing strategies, achieving a three-month reservation waitlist. Fostered community impact by mentoring employees, hiring individuals with employment barriers, sourcing goods globally from small businesses."
+  }
+]
